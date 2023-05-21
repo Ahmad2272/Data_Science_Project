@@ -1,2 +1,3 @@
 # Data_Science_Project
-A data science project repository showcasing analysis, visualization, and predictive modeling techniques on a dataset, offering insights and solutions within a specific domain.
+Spam Email Classification
+This project involves developing a machine learning model to classify emails as spam or not spam, based on their content and metadata.
